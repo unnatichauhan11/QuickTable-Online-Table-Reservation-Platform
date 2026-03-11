@@ -1,4 +1,4 @@
-# Restaurant Table Reservation System
+# QuickTable – Online Table Reservation Platform
 
 A complete web-based restaurant table booking system built with HTML, CSS, JavaScript, PHP, and MySQL.
 
@@ -180,4 +180,5 @@ This project is free to use for educational purposes.
 ## 👨‍💼 Author
 
 QuickTable – Online Table Reservation Platform - Educational Project
+
 
