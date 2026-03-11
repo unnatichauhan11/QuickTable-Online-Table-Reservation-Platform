@@ -179,4 +179,5 @@ This project is free to use for educational purposes.
 
 ## 👨‍💼 Author
 
-Restaurant Booking Management System - Educational Project
+QuickTable – Online Table Reservation Platform - Educational Project
+
